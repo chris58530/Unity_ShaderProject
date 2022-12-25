@@ -21,6 +21,7 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.ext.nunit": "1.0.6"
       },
       "url": "https://packages.unity.com"
@@ -31,6 +32,9 @@
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
+=======
+        "com.unity.test-framework": "1.1.1"
+>>>>>>> ae1f4097f7630cd8f5ed7dc118f10798ba413208
       },
       "url": "https://packages.unity.com"
     },
